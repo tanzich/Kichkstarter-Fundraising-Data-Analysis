@@ -57,6 +57,6 @@ A table should be made to reflect the success, failure and cancellation of theat
 
 Also it would be better to create a graph that shows success, failed, cancelled results for each year instead. That will tell us how the campaign of theaters has grown over the years. 
 
-A data is needed to show more details about the plays. A success of a play for example, depends on the artists, the rating of the play, the director of the play. A play that has popular or better artists with a good director will probably attract more audience then other plays.
+Data is needed to show more details about the plays. A success of a play for example, depends on the artists, the rating of the play, and the director of the play. A play that has popular or better artists with a good director will probably attract more audience then other plays.
 
 
